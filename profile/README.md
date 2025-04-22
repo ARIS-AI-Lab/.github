@@ -6,6 +6,6 @@ Our research lab is focused on transforming the landscape of modern surgery by i
 ### AI in Surgery
 
 [CATAGUIDE-NET: A LEARNING-BASED OFFLINE FRAMEWORK FOR CATARACT SURGERY ASSISTANCE](https://aris-ai-lab.github.io/CataGuide-Net/#)
-## Lab members
+## 🧑‍🔬 Lab members
 - [Orhan Ozguner](https://case.edu/engineering/about/faculty-and-staff-directory/orhan-ozguner) *(PI and Lab Director)*
 - [Jiayi Chen](#) *(MS)*

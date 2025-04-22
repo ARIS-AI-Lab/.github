@@ -5,5 +5,5 @@ Our research lab is focused on transforming the landscape of modern surgery by i
 ## 🚀 Amazing Projects at ARIS Lab
 
 ## Lab members
-- [Orhan Ozguner](#) *(PI and Lab Director)*
+- [Orhan Ozguner](https://case.edu/engineering/about/faculty-and-staff-directory/orhan-ozguner) *(PI and Lab Director)*
 - [Jiayi Chen](#) *(MS)*
